@@ -1,6 +1,6 @@
 <pyaimt>
 	<!-- The JabberID of the transport. -->
-	<jid>aim.example.org</jid>
+	<jid>aim.chivanet.org</jid>
 
 	<!-- The JabberID of the conference room handler. -->
 	<!-- GROUPCHAT IS NOT STABLE YET -->
@@ -21,7 +21,7 @@
 	<mainServer>127.0.0.1</mainServer>
 
 	<!-- The JID of the main Jabber server -->
-	<mainServerJID>jabber.localhost</mainServerJID>
+	<mainServerJID>localhost</mainServerJID>
 
 	<!-- The website of the Jabber service -->
 	<website>http://jabber.localhost/</website>
@@ -41,7 +41,7 @@
 	<lang>en</lang>
 
 	<!-- The hostname of the AOL login server you wish to connect to -->
-	<aimServer>login.oscar.aol.com</aimServer>
+	<aimServer>aim.chivanet.org</aimServer>
 
 	<!-- The port of the AOL server you wish to connect to -->
 	<aimPort>5190</aimPort>
